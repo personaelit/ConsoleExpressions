@@ -1,0 +1,13 @@
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\obj\Debug\netcoreapp3.1\ConsoleExpressions.csprojAssemblyReference.cache
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\obj\Debug\netcoreapp3.1\ConsoleExpressions.AssemblyInfoInputs.cache
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\obj\Debug\netcoreapp3.1\ConsoleExpressions.AssemblyInfo.cs
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\obj\Debug\netcoreapp3.1\ConsoleExpressions.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\bin\Debug\netcoreapp3.1\ConsoleExpressions.exe
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\bin\Debug\netcoreapp3.1\ConsoleExpressions.deps.json
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\bin\Debug\netcoreapp3.1\ConsoleExpressions.runtimeconfig.json
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\bin\Debug\netcoreapp3.1\ConsoleExpressions.runtimeconfig.dev.json
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\bin\Debug\netcoreapp3.1\ConsoleExpressions.dll
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\bin\Debug\netcoreapp3.1\ConsoleExpressions.pdb
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\obj\Debug\netcoreapp3.1\ConsoleExpressions.dll
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\obj\Debug\netcoreapp3.1\ConsoleExpressions.pdb
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\obj\Debug\netcoreapp3.1\ConsoleExpressions.genruntimeconfig.cache
