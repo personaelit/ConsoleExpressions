@@ -11,3 +11,6 @@ C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\C
 C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\obj\Debug\netcoreapp3.1\ConsoleExpressions.dll
 C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\obj\Debug\netcoreapp3.1\ConsoleExpressions.pdb
 C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\obj\Debug\netcoreapp3.1\ConsoleExpressions.genruntimeconfig.cache
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\bin\Debug\netcoreapp3.1\ConsoleEffects.dll
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\bin\Debug\netcoreapp3.1\ConsoleEffects.pdb
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleExpressions\obj\Debug\netcoreapp3.1\ConsoleExpressions.csproj.CopyComplete

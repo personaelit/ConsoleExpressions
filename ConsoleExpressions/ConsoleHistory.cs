@@ -4,9 +4,9 @@ using System.Text;
 
 namespace ConsoleExpressions
 {
-    internal class ConsoleHistory : List<string>
+    public class ConsoleHistory : List<string>
     {
-        internal void WriteAll()
+        public void WriteAll()
         {
             foreach (var input in this)
             {

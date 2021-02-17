@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "ConsoleExpressions/1.0.0": {
+        "dependencies": {
+          "ConsoleEffects": "1.0.0"
+        },
         "runtime": {
           "ConsoleExpressions.dll": {}
+        }
+      },
+      "ConsoleEffects/1.0.0": {
+        "runtime": {
+          "ConsoleEffects.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ConsoleExpressions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleEffects/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

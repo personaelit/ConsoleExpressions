@@ -1,0 +1,9 @@
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleEffects\bin\Debug\netcoreapp3.1\ConsoleEffects.deps.json
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleEffects\bin\Debug\netcoreapp3.1\ConsoleEffects.dll
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleEffects\bin\Debug\netcoreapp3.1\ConsoleEffects.pdb
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleEffects\obj\Debug\netcoreapp3.1\ConsoleEffects.csprojAssemblyReference.cache
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleEffects\obj\Debug\netcoreapp3.1\ConsoleEffects.AssemblyInfoInputs.cache
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleEffects\obj\Debug\netcoreapp3.1\ConsoleEffects.AssemblyInfo.cs
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleEffects\obj\Debug\netcoreapp3.1\ConsoleEffects.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleEffects\obj\Debug\netcoreapp3.1\ConsoleEffects.dll
+C:\Users\james\OneDrive\Documents\dev\_AssumedToBeforgotten\ConsoleExpressions\ConsoleEffects\obj\Debug\netcoreapp3.1\ConsoleEffects.pdb

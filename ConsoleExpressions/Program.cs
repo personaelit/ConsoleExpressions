@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConsoleEffects;
+using System;
 using static System.Console;
 using static System.ConsoleColor;
 
@@ -9,6 +10,7 @@ namespace ConsoleExpressions
 
         static ConsoleHistory _consoleHistory = new ConsoleHistory();
         static BackgroundEffects _backgroundEffects = new BackgroundEffects(_consoleHistory);
+        static TextPrinter _textPrinter;
         //static int _width;
         //static int _height;
         //static Point _target;
@@ -29,6 +31,13 @@ namespace ConsoleExpressions
                 if (input == "strobe")
                 {
                     _backgroundEffects.StrobeRandom(count: 30, new Milliseconds(10));
+                }
+
+                if (input == "print")
+                {
+                    _textPrinter = new TextPrinter("Print a thing");
+                    _textPrinter.Print();
+                    _textPrinter.Type();
                 }
 
                 if (input == "cycle")
