@@ -5,6 +5,9 @@ using static System.ConsoleColor;
 
 namespace ConsoleExpressions
 {
+    /// <summary>
+    /// This has become quite a mess, but has been fun.
+    /// </summary>
     class Program
     {
 
@@ -27,6 +30,25 @@ namespace ConsoleExpressions
                 string input = ReadLine();
                 _consoleHistory.Add(input);
                 input = input.ToLower().Trim();
+
+                if (input == "jog")
+                {
+                    Jogger.Jog(5, 5);
+                    System.Threading.Thread.Sleep(1000);
+                    Jogger.Bottom();
+                    System.Threading.Thread.Sleep(1000);
+                    Jogger.CenterHorizontal();
+                    System.Threading.Thread.Sleep(1000);
+                    Jogger.CenterVertical();
+                    System.Threading.Thread.Sleep(1000);
+                    Jogger.End();
+                    System.Threading.Thread.Sleep(1000);
+                    Jogger.Home();
+                    System.Threading.Thread.Sleep(1000);
+                    Jogger.Top();
+
+
+                }
 
                 if (input == "strobe")
                 {

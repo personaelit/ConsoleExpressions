@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Console;
 
 namespace ConsoleEffects
 {
@@ -27,6 +28,20 @@ namespace ConsoleEffects
                 System.Threading.Thread.Sleep(100);
             }
             Console.ReadLine();
+        }
+
+        public void StarWars(string message)
+        {
+            //TODO: handle line breaks.
+            //TODO: handle printing true center;
+
+            //if (CursorTop < 0)
+            //{
+            //    Line
+            //    Jogger.Jog(Console.WindowLeft, Console.CursorTop - 1);
+
+            //}
+
         }
     }
 }
